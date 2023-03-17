@@ -8,7 +8,8 @@ module.exports = () => {
     mode: 'development',
     entry: {
       main: './src/js/index.js',
-      install: './src/js/install.js'
+      install: './src/js/install.js',
+      editor: './src/js/editor.js'
     },
     output: {
       filename: '[name].bundle.js',
@@ -33,7 +34,7 @@ module.exports = () => {
         description: 'Just another browser text editor',
         background_color: '#02bae3',
         theme_color: '#02bae3',
-        start_url: '/',
+        start_url: './',
         publicPath: './',
         icons: [
           {

@@ -20,7 +20,7 @@ Below you will find screenshots displaying the functionality of this text editor
 
 [Check it out through Heroku!](https://jate-text-editor9.herokuapp.com/)
 
-[To view more projects, click to visit my GitHub](https://github.com/Volexity21?tab=repositories)
+[Feel free to join me through past and future projects!](https://github.com/Morralytics)
 
 ## Credits
 
